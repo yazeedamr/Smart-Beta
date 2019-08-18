@@ -1,8 +1,6 @@
 function thisPerformance=evaluateStrategy(thisStrategy,ff3)
 % Function: getLags
-% Author: Evan Zhou
-% Laste Modified: 2017-11
-% Course: Applied Quantitative Finance
+% Author: Yazeed Amr
 % Project: Smart Beta
 % Purpose:
 %   Return a table of lagged variables
