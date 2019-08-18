@@ -3,9 +3,7 @@
 
 function portfolio=tradeWinnersMomentum(thisDate,crsp,isRebalance,lastPortfolio,optionalArgument)
 % Function: tradeMomentum
-% Author: Evan Zhou
-% Laste Modified: 2017-11
-% Course: Applied Quantitative Finance
+% Author: Yazeed Amr
 % Project: Smart Beta
 % Purpose:
 %   Calculate the desired trade positions (investment weights) for long
