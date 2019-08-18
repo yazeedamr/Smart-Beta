@@ -1,5 +1,5 @@
 %% mixPortfolio3.m
-% Course: Applied Quantitative Finance
+% Author: Yazeed Amr
 % Project: Smart Beta
 % Purpose:
 %     runs the final strategy including longing momentum winner stocks, and 
